@@ -1,0 +1,21 @@
+{
+  "name": "ljy-cli",
+  "version": "1.0.0",
+  "description": "ljy's cli",
+  "bin": "./bin/enter.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^9.3.0",
+    "download-git-repo": "^2.0.0",
+    "fs-extra": "^10.1.0",
+    "inquirer": "^7.3.3",
+    "ora": "^5.4.1"
+  }
+}
